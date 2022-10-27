@@ -1,0 +1,1 @@
+export { IrregularityReporterForm } from './IrregularityReporterForm';

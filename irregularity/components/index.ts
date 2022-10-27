@@ -1,0 +1,1 @@
+export { IrregularityRoute } from './IrregularityRoute';
